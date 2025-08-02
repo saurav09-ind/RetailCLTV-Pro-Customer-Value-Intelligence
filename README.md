@@ -20,7 +20,7 @@ To build a full-cycle analytics and ML-powered CLTV system that:
 - **Source**: [UCI / Kaggle Online Retail Dataset]
 - ~540,000 transactions from a UK-based online retailer
 - Features: `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`
-- 
+
 
 ---
 
